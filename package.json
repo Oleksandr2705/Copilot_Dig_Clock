@@ -1,0 +1,17 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "Описание вашего проекта",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ваше имя",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "babel-jest": "^29.7.0",
+    "jest": "^27.5.1"
+  }
+}
